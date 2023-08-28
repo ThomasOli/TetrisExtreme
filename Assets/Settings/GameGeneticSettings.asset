@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7142cb081194ee99486d5557723875c, type: 3}
+  m_Name: GameGeneticSettings
+  m_EditorClassIdentifier: 
+  Settings:
+    LinesCleared: 0.6338662
+    WeightedHeight: 0.1514999
+    CumulativeHeight: -1.03341
+    RelativeHeight: -0.7279727
+    Holes: -0.8361529
+    Roughness: -0.08294022
+    UseDebugging: 0
