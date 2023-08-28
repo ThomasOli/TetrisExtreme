@@ -22,7 +22,6 @@ You can play it [here](https://thomasolitextrix.xyz.
 - Keyboard input
 - Simple 3D graphics
 - Local leaderboard
-- Player/AI mode
 - Animations
 - Sounds
 
